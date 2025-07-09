@@ -1,0 +1,28 @@
+{
+  "raw_column_name_to_long_column_name": {
+    "f3": "Name",
+    "f4": "ID",
+    "f5": "DOB",
+    "Date": "FacilityOpenDate",
+    "Sts": "Status",
+    "Bal": "Balance",
+    "BalDate": "DateBalanceUpdated",
+    "Lmt": "Limit",
+    "RepayTerm": "PrincipalRepaymentTerm",
+    "ColType": "CollateralType",
+    "Lgl": "LegalStatus",
+    "LglDate": "DateLegalAction"
+  },
+  "column_keys": [
+    "Name",
+    "ID",
+    "FacilityOpenDate",
+    "Status",
+    "LenderType",
+    "Capacity",
+    "Facility",
+    "Balance",
+    "DateBalanceUpdated",
+    "Limit"
+  ]
+}
